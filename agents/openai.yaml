@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chat Relationship Analysis"
+  short_description: "Analyze exported chats with evidence and theory."
+  default_prompt: "Use $chat-relationship-analysis to analyze this exported chat file and judge what kind of relationship it reflects."
