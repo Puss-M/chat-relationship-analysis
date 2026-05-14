@@ -1,6 +1,6 @@
 ---
 name: chat-relationship-analysis
-description: Analyze exported one-to-one chat files and produce an evidence-based relationship assessment grounded in message excerpts, fixed labels, a five-part scorecard, Sternberg's triangular theory, and social exchange theory. Use when the user asks to judge what a chat relationship looks like, whether warmth is romantic or platonic, whether there is escalation, or whether the interaction is becoming one-sided. Best for `reports/chat_*.txt` and compatible with merged `wechat-backup/<contact>/*.md` transcripts.
+description: Analyze exported one-to-one chat files and produce an evidence-based relationship assessment grounded in message excerpts, fixed labels, a five-part scorecard, Sternberg's triangular theory, and social exchange theory. Use when the user asks to judge what a chat relationship looks like, whether warmth is romantic or platonic, whether there is escalation, or whether the interaction is becoming one-sided. Best for `reports/chat_*.txt` and compatible with merged monthly transcripts from `wechat-backup`.
 ---
 
 # Chat Relationship Analysis
